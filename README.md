@@ -60,13 +60,12 @@ La proiezione dei cluster sulle prime due componenti principali (PCA) spiega olt
 ### Tabella di Sintesi & Validazione Ex-Post
 
 | Cluster / Profilo | Imprese | Peso % | Crescita Fatt. (%) | EBITDA Margin (%) | ROA (%) | Current Ratio | Debt / Equity | DSCR | PD 12M (%) | Azione Manageriale Suggerita |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | **Solide e liquide** | 2.230 | 22.3% | +4.4% | 16.1% | 7.1% | 2.00 | 0.84 | 1.79 | **0.34%** | *Sviluppo commerciale, retention, concessione linee a tassi competitivi* |
 | **In crescita (credito intensivo)** | 3.561 | 35.6% | +14.6% | 17.2% | 9.2% | 0.98 | 1.82 | 1.38 | **0.66%** | *Supporto agli investimenti con monitoraggio dell'assorbimento di circolante* |
 | **Indebitate e vulnerabili** | 2.537 | 25.4% | +2.2% | 10.6% | 3.9% | 1.16 | 3.84 | 0.95 | **1.20%** | *Richiesta garanzie addizionali, divieto aumento affidamenti a revoca* |
 | **In deterioramento** | 1.672 | 16.7% | -9.3% | 2.9% | -2.6% | 0.74 | 3.00 | 0.74 | **7.67%** | *Watchlist / Early Warning, piani di rientro e ristrutturazione dell'esposizione* |
 
----
 
 ## 💡 Valore di Business & Conclusioni
 
